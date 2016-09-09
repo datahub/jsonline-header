@@ -6,7 +6,7 @@
 	// create header element inline where script is called from
 	document.write('<header id="jsonline-header"></header>');
 	// inject stylesheet, assumes page already has fonts
-    var stylesheet = document.createElement('link');
+	var stylesheet = document.createElement('link');
 	stylesheet.href = cssFile;
 	stylesheet.type = 'text/css';
 	stylesheet.rel = 'stylesheet';
