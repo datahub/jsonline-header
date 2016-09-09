@@ -12,4 +12,4 @@ Place the following code snippet where you'd like the header to be on the page.
 ```
 <iframe src="http://projects.jsonline.com/shared/header/v1/embed.html" style="width:100%;height:40px;" frameborder="0"></iframe>
 ```
-
+*Based on http://www.jsonline.com/services/cobrand/header/*
