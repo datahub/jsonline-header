@@ -1,6 +1,6 @@
 (function () {
 	// files
-	var pathRoot = '/shared/header/v2/';
+	var pathRoot = '/shared/header/v3/';
 	var cssFile =  pathRoot + 'header.css';
 	var htmlFile = pathRoot + 'header.html';
 	// create header element inline where script is called from
