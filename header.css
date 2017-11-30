@@ -12,7 +12,8 @@
     background: #fff !important;
     border-top: 1px solid #d2d2d2 !important;
     border-bottom: 1px solid #d2d2d2 !important;
-    font-family: 'Futura Today Bold',Helvetica,Arial,sans-serif !important;
+    font-family: 'Unify Sans', Helvetica, Arial, sans-serif !important;
+    font-weight: 900;
     color: #000 !important;
     transform: translateZ(0);
     -webkit-transform: translateZ(0);
@@ -108,6 +109,14 @@
 .site-nav-greensheet:after {
     border-color: rgb(163, 187, 144) !important;
     color: rgb(163, 187, 144) !important;
+}
+
+.site-nav-metroparent .site-nav-link:hover {
+    color: rgb(63, 132, 124) !important;
+}
+.site-nav-metroparent:after {
+    border-color: rgb(63, 132, 124) !important;
+    color: rgb(63, 132, 124) !important;
 }
 
 .site-nav-usat {
